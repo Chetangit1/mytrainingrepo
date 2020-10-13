@@ -1,0 +1,71 @@
+{
+    "CustomerDetails" :[
+    {
+		"CustomerID": "ALFKI",
+		"CompanyName": "Alfreds Futterkiste",
+		"ContactName": "Maria Anders",
+		"ContactTitle": "Sales Representative",
+		"Address": "Obere Str. 57",
+		"City": "Berlin",
+        "Region": null,
+        "age": 32,
+		"PostalCode": "12209",
+		"Country": "Germany",
+		"Phone": "030-0074321",
+        "Fax": "030-0076545",
+        "size": "10%"
+	}, {
+		"CustomerID": "ANATR",
+		"CompanyName": "Ana Trujillo Emparedados y helados",
+		"ContactName": "Ana Trujillo",
+		"ContactTitle": "Owner",
+		"Address": "Avda. de la Constituci3n 2222",
+		"City": "Maxico D.F.",
+        "Region": null,
+        "age": 52,
+		"PostalCode": "05021",
+		"Country": "Mexico",
+		"Phone": "(5) 555-4729",
+		"Fax": "(5) 555-3745"
+	}, {
+		"CustomerID": "ANTON",
+		"CompanyName": "Antonio Moreno Taquera",
+		"ContactName": "Antonio Moreno",
+		"ContactTitle": "Owner",
+		"Address": "Mataderos  2312",
+		"City": "Maxico D.F.",
+        "Region": null,
+        "age": 62,
+		"PostalCode": "05023",
+		"Country": "Mexico",
+		"Phone": "(5) 555-3932",
+		"Fax": null
+    },
+{
+		"CustomerID": "BSBEV",
+		"CompanyName": "B's Beverages",
+		"ContactName": "Victoria Ashworth",
+		"ContactTitle": "Sales Representative",
+		"Address": "Fauntleroy Circus",
+		"City": "London",
+        "Region": null,
+        "age": 72,
+		"PostalCode": "EC2 5NT",
+		"Country": "UK",
+		"Phone": "(171) 555-1212",
+		"Fax": null
+	}, {
+		"CustomerID": "CACTU",
+		"CompanyName": "Cactus Comidas para llevar",
+		"ContactName": "Patricio Simpson",
+		"ContactTitle": "Sales Agent",
+		"Address": "Cerrito 333",
+		"City": "Buenos Aires",
+        "Region": null,
+        "age": 72,
+		"PostalCode": "1010",
+		"Country": "Argentina",
+		"Phone": "(1) 135-5555",
+		"Fax": "(1) 135-4892"
+	}]
+    }
